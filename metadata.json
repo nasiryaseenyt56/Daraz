@@ -1,0 +1,7 @@
+{
+  "name": "Daraz Clone - Ultimate E-commerce",
+  "description": "A high-fidelity Daraz clone featuring a responsive layout, flash sales, category-driven navigation, and a Gemini-powered shopping assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
